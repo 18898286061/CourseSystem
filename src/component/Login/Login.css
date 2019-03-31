@@ -1,0 +1,11 @@
+.login-form>h1 {
+  text-align: center
+}
+.ant-form.login-form {
+  max-width: 300px;
+  margin: auto;
+  padding: 170px 0;
+}
+.ant-btn.login-form-button {
+  width: 100%;
+}

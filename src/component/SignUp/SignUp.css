@@ -1,0 +1,8 @@
+.ant-form.ant-form-horizontal{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.ant-form>h1 {
+    text-align: center
+}
