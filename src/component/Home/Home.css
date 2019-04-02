@@ -1,0 +1,16 @@
+header>.logo {
+  width: 120px;
+  float: left;
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+}
+
+header>.logo>i{
+  cursor: pointer;
+}
+.ant-dropdown-link {
+  position: absolute;
+  right: 30px;
+  top: 74px;
+}
